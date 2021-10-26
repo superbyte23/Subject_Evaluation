@@ -1,0 +1,11 @@
+{
+    "database" : [
+    	{
+	        "host" : "localhost",
+	        "user" : "root",
+	        "password": "",
+	        "dbname":"subject_evaluation"
+    	}
+
+	]
+}
